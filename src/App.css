@@ -7,6 +7,11 @@
   padding: 20px;
 }
 
+h3 {
+  color: gray;
+  font-weight: 300;
+}
+
 .img {
   width: 100%;
   aspect-ratio: 20 / 9; 
