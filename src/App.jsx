@@ -6,12 +6,6 @@ import CardContent from '@mui/material/CardContent';
 import Button from '@mui/material/Button';
 import {useState} from 'react'
 
-const SkillPage = () => {
-  return (<>
-    <img src={skillList}></img>
-    </>)
-}
-
 function App() {
   const [index, setIndex] = useState(0)
   const skill = skillList[index];
