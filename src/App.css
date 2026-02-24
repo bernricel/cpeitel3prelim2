@@ -1,0 +1,16 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.innerContainer {
+  padding: 20px;
+}
+
+.img {
+  width: 100%;
+  aspect-ratio: 20 / 9; 
+  object-fit: cover;
+  border-radius: 8px;
+  background-color: #f9fafb;
+}
